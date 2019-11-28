@@ -1,0 +1,8 @@
+﻿  OpenCLProgram.cpp
+c:\users\user\google drive\uowsvn\csci376 (sp319) multicore and gpu programming\csci376 assignments\csci376 assignment 1\a1-5841549(nursuhaira)\a1-5841549(nursuhaira)\openclprogram.cpp(173): warning C4244: '=': conversion from 'cl::detail::param_traits<cl::detail::cl_device_info,4131>::param_type' to 'long', possible loss of data
+c:\users\user\google drive\uowsvn\csci376 (sp319) multicore and gpu programming\csci376 assignments\csci376 assignment 1\a1-5841549(nursuhaira)\a1-5841549(nursuhaira)\openclprogram.cpp(71): warning C4101: 'k': unreferenced local variable
+c:\users\user\google drive\uowsvn\csci376 (sp319) multicore and gpu programming\csci376 assignments\csci376 assignment 1\a1-5841549(nursuhaira)\a1-5841549(nursuhaira)\openclprogram.cpp(342): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\google drive\uowsvn\csci376 (sp319) multicore and gpu programming\csci376 assignments\csci376 assignment 1\a1-5841549(nursuhaira)\a1-5841549(nursuhaira)\openclprogram.cpp(347): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\google drive\uowsvn\csci376 (sp319) multicore and gpu programming\csci376 assignments\csci376 assignment 1\a1-5841549(nursuhaira)\a1-5841549(nursuhaira)\openclprogram.cpp(416): warning C4018: '>': signed/unsigned mismatch
+c:\users\user\google drive\uowsvn\csci376 (sp319) multicore and gpu programming\csci376 assignments\csci376 assignment 1\a1-5841549(nursuhaira)\a1-5841549(nursuhaira)\openclprogram.cpp(470): warning C4018: '<': signed/unsigned mismatch
+  A1-5841549(NurSuhaira).vcxproj -> C:\Users\User\Google Drive\uowSVN\CSCI376 (SP319) Multicore and GPU Programming\CSCI376 Assignments\CSCI376 Assignment 1\A1-5841549(NurSuhaira)\Debug\A1-5841549(NurSuhaira).exe
